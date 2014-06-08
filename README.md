@@ -1,4 +1,4 @@
 css3d-animations
 ================
 
-css 3d animations
+Experimenting with different CSS transform and keyframes properties.
